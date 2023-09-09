@@ -1,2 +1,2 @@
 # AidTec_Product_Landing_Page
-Created with CodeSandbox
+This is a simple product landing page that describes about the Headphones created by using HTML, CSS and javascript
